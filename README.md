@@ -1,2 +1,1 @@
-Arduino nano cowboy pistol dual game
 This is a personal project that uses only 4 components to make a simple game for the arduino nano, built primarily to strengthen my understanding and ability to make state machines.  For wiring diagram and project simultion visit: https://wokwi.com/projects/452812102211538945
